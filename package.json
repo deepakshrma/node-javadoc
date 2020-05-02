@@ -1,5 +1,6 @@
 {
   "name": "@deepakvishwakarma/node-javadoc",
+  "scope": "public",
   "version": "1.0.0",
   "description": "A tool to generate json out of javadoc metadata using https://github.com/RaidAndFade/javadoc-json-doclet",
   "bin": {
@@ -11,5 +12,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakshrma/node-javadoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepakshrma/node-javadoc/issues"
+  },
+  "homepage": "https://github.com/deepakshrma/node-javadoc#readme"
 }
