@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/deepakshrma/node-javadoc/issues"
   },
-  "homepage": "https://github.com/deepakshrma/node-javadoc#readme"
+  "homepage": "https://github.com/deepakshrma/node-javadoc#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
